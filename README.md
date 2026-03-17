@@ -3,7 +3,7 @@
 ## 🎯 학습 목표
 
 - [ ] 웹에 대한 기초 지식 습득
-- [ ] 간단한 API 명세 설계 능력 배양
+- [x] 간단한 API 명세 설계 능력 배양
 - [ ] MySQL을 이용한 간단한 DB 스키마 설계
 - [ ] Spring Initializr를 이용한 프로젝트 생성
 - [ ] Spring Boot 기반 REST API 구현
@@ -15,8 +15,8 @@
 
 ### Step 1. API 명세 설계
 
-- [ ] 기능 요구사항 분석 및 API 직접 설계
-  - [ ] 키워드 학습: `API`, `URL`, `URI`, `Body`, `HTTP Method(GET, POST, etc.)`, `JSON`, `Response Code`
+- [x] 기능 요구사항 분석 및 API 직접 설계
+  - [x] 키워드 학습: `API`, `URL`, `URI`, `Body`, `HTTP Method(GET, POST, etc.)`, `JSON`, `Response Code`
 
 ### Step 2. 최소 Annotation 학습
 
