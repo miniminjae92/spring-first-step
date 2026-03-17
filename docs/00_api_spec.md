@@ -51,7 +51,7 @@ URL이 자원의 식별자이기도 해서 URL을 URI로 섞어 사용하기도 
 https:// -> scheme  
 gemini.google.com -> URI  
 /app/ff17bbf526364a?hl=ko -> URN(Uniform Resource Name)  
-https://gemini.google.com/app/ff17bbf526364a?hl=ko -> URL
+`https://gemini.google.com/app/ff17bbf53214364a?hl=ko` -> URL
 
 ### HTTP 요청 Method
 
