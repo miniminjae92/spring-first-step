@@ -105,6 +105,21 @@ Cacheable
 - Null: Null은 의도적으로 비어 있는 값을 나타냅니다. 키에 어떤 값도 할당되어 있지 않은 경우 해당 키는 Null로 취급할 수 있습니다.
 - 숫자: 숫자는 계산, 비교 또는 데이터 분석과 같은 다양한 용도로 숫자 값을 저장하는 데 사용됩니다. JSON은 양수 및 음수와 소수점을 모두 지원합니다. JSON 숫자는 JavaScript의 배정도수 부동소수점 형식을 따릅니다.
 
+#### HTTP 응답 상태 코드
+
+| 코드  | 의미                                   |
+| ----- | -------------------------------------- |
+| `200` | OK                                     |
+| `301` | Moved Permanently (영구 이동)          |
+| `302` | Found (임시 이동)                      |
+| `304` | Not Modified                           |
+| `307` | Temporary Redirect                     |
+| `401` | Unauthorized (인증 필요)               |
+| `403` | Forbidden (접근 금지)                  |
+| `404` | Not Found (찾을 수 없음)               |
+| `500` | Internal Server Error (서버 내부 오류) |
+| `503` | Service Unavailable (서비스 불가)      |
+
 ## Mission
 
 ## 기능 요구사항
